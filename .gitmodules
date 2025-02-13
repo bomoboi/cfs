@@ -11,12 +11,12 @@
 	url = https://github.com/nasa/PSP.git
   branch = main
 [submodule "apps"]
-  path = apps
-  url = https://github.com/bomoboi/comet-apps.git
+	path = apps
+	url = https://github.com/bomoboi/comet-apps
   branch = main
 [submodule "libs"]
-  path = libs
-  url = https://github.com/bomoboi/comet-libs.git
+	path = libs
+	url = https://github.com/bomoboi/comet-libs
   branch = main
 ; [submodule "tools/cFS-GroundSystem"]
 ; 	path = tools/cFS-GroundSystem
